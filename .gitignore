@@ -1,0 +1,31 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Unity generated files
+*.csproj
+*.sln
+*.slnx
+*.user
+*.tmp
+
+# Config files
+.vsconfig
+
+# Build folders
+[Bb]uild/
+[Bb]uilds/
+
+# Memory captures
+MemoryCaptures/
+
+# Asset yang tidak ingin diupload
+Assets/CartoonTracksPack1/
+Assets/CartoonTracksPack1.meta
