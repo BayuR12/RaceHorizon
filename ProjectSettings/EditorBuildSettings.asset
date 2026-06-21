@@ -8,16 +8,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 0
+  - enabled: 1
     path: Assets/MainMenu.unity
     guid: d2ed060c831a130448e838599b026bb1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Level1_TimeAttack.unity
     guid: e21e871cf0c336a4ea1f267ad9892244
-  - enabled: 0
+  - enabled: 1
     path: Assets/Level2_CheckPoint.unity
     guid: 1dcae243d71d9234a8b68a9fb2873b1f
-  - enabled: 1
+  - enabled: 0
     path: Assets/coba_joystick.unity
     guid: 4f720eabfc95a254d97da97de93ad32a
   m_configObjects:
