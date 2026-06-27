@@ -26,6 +26,16 @@ UserSettings/
 # Memory captures
 MemoryCaptures/
 
-# Asset yang tidak ingin diupload
+# =========================================================
+# ASSET YANG TIDAK INGIN DIPUBLIKASIKAN / DIUPLOAD
+# =========================================================
 Assets/CartoonTracksPack1/
 Assets/CartoonTracksPack1.meta
+
+# Folder Audio Baru yang Terlanjur Masuk
+Assets/Car Engine Sound - i6 German Free/
+Assets/Car Engine Sound - i6 German Free.meta
+Assets/Car Engine Sound - Rotary x8 Free/
+Assets/Car Engine Sound - Rotary x8 Free.meta
+Assets/Vehicle_Essentials/
+Assets/Vehicle_Essentials.meta
